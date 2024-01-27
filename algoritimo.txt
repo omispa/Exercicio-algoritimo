@@ -1,0 +1,37 @@
+Algoritmo: Rotina Matinal Ajustada
+
+1. Início:
+2. Desativar o despertador.
+
+3. Abrir os olhos.
+
+4. Verificar a hora no relógio:
+   5.   Se antes das 6:00:
+          6.   Fechar os olhos e tentar dormir um pouco mais.
+          7.   Fim.
+
+8. Levantar da cama.
+
+9. Ir ao banheiro:
+   10.  Abrir os olhos completamente.
+   11.  Escovar os dentes.
+   12.  Lavar o rosto.
+
+13. Escolher a roupa para o dia:
+    14.  Verificar a previsão do tempo.
+    15.  Vestir-se adequadamente.
+
+16. Ir para a cozinha:
+    17.  Preparar um café da manhã rápido:
+         18.  Se tiver tempo, fazer ovos e torradas.
+         19.  Caso contrário, preparar um smoothie.
+
+20. Verificar a agenda do dia:
+    21.  Se tiver compromissos, preparar itens necessários.
+    22.  Caso contrário, revisar metas pessoais.
+
+23. Preparar a bolsa ou mochila (se necessário).
+
+24. Sair de casa para iniciar o dia.
+
+25. Fim.
